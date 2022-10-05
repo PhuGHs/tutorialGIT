@@ -7,4 +7,5 @@ function Cat() {
 		console.log(i);
 	}
 	shdjkashdjkashdkas
+	return name;
 }
